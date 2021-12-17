@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-ci_cd_workshop.egg-info/PKG-INFO
-ci_cd_workshop.egg-info/SOURCES.txt
-ci_cd_workshop.egg-info/dependency_links.txt
-ci_cd_workshop.egg-info/top_level.txt
